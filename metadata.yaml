@@ -5,6 +5,9 @@ contributor:
     agent_name: Wilson, L. J.
     gutenberg_agent_id: '55246'
     url: http://www.gutenberg.org/2009/agents/55246
+covers:
+- cover_type: archival
+  image_path: 69763-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimes, Katharine Atherton
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '55245'
     url: http://www.gutenberg.org/2009/agents/55245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69763#Kwasa-the-cliff-dweller
 gutenberg_issued: '2023-01-10'
 identifiers:
   gutenberg: '69763'
